@@ -19,7 +19,7 @@
 </div>
 
 
-## my work
+## My Work
 <div style="display: inline_block"><br>
 <img align="center" alt="zera-logo" height="60" width="80" src="https://github.com/user-attachments/assets/9ff8deb7-4328-4a6d-ac63-6b8dabd842e1" />
 </div>

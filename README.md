@@ -21,10 +21,10 @@
 
 ## My Work
 <div style="display: inline_block"><br>
-<img align="center" alt="zera-logo" height="60" width="80" src="https://github.com/user-attachments/assets/9ff8deb7-4328-4a6d-ac63-6b8dabd842e1" />
+<img align="center" alt="zera-logo" height="60" width="80" src="https://github.com/user-attachments/assets/c543dc12-5c64-4c93-bb3c-d6697cc3a109" />
 </div>
 
-<!-- 
+<!--
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaka-fps/kaka-fps/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaka-fps/kaka-fps/output/github-contribution-grid-snake-dark.svg">

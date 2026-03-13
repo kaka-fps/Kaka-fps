@@ -1,13 +1,13 @@
-## Hello World, i'm Cau0x01 👋
-
+# Hello World, i'm Cau0x01 👋
 
 - 🔭 Automating data collection with AI
 - 🌱 I'm learning: n8n and docker.
 - 👯 community projects and freelance work
 - 💬 Transformer architecture, logic, interpretations, and programming explanations.
 - 📫 I don't know, but if you want, you can send me a message.
-- 😄 Pronouns: ele/dele (PT-BR)
-- ⚡ I like coffee, dress shirts, and I'm a nerd ¯\(ツ)/¯
+- ⚡ I like coffee, dress shirts, and I'm a nerd ¯\\(ツ)/¯
+
+## 🤖 languages ​​and technologies
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,7 +17,6 @@
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </div>
-
 
 ## My Work
 <div style="display: inline_block"><br>

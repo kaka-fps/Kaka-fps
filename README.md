@@ -21,7 +21,16 @@
 
 ## My Work
 <div style="display: inline_block"><br>
-<img align="center" alt="zera-logo" height="60" width="80" src="https://github.com/user-attachments/assets/c543dc12-5c64-4c93-bb3c-d6697cc3a109" />
+  <p align="left">
+    <a href="https://www.zera.com.br/">
+        <img 
+            aling="center"
+            alt="zera-logo"
+            height="60"
+            width="80"
+            src="https://github.com/user-attachments/assets/c543dc12-5c64-4c93-bb3c-d6697cc3a109" 
+        />
+    </a>
 </div>
 
 <!--

@@ -25,7 +25,7 @@
         <img 
             aling="center"
             alt="zera-logo"
-            height="60"
+            height="25"
             width="80"
             src="https://github.com/user-attachments/assets/c543dc12-5c64-4c93-bb3c-d6697cc3a109" 
         />
